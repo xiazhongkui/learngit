@@ -8,4 +8,7 @@ git commit -m 'a log file for git code'
 # I add a new file--- test.txt
 git status
 git diff learngit.code.log
+git add learngit.code.log
+git add test.txt
+git commit -m 'first to change,v1'
 
