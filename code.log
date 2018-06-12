@@ -5,6 +5,6 @@ git init
 git add file
 git commit -m 'add a new file'
 git status
-
-
+git diff file
+git diff HEAD -- file
 
