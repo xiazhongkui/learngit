@@ -11,4 +11,9 @@ git diff learngit.code.log
 git add learngit.code.log
 git add test.txt
 git commit -m 'first to change,v1'
+git log
+git log --pretty=oneline
+git reset --hard HEAD^
+git reset --hard commitID
+git reflog
 
