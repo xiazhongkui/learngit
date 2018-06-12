@@ -1,0 +1,6 @@
+#the git code
+mkdir learngit
+cd learngit
+git init
+git add learngit.code.log
+git config --global core.autocrlf false
