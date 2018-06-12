@@ -1,0 +1,10 @@
+# the code of git
+mkdir learngit
+cd learngit
+git init
+git add file
+git commit -m 'add a new file'
+git status
+
+
+
