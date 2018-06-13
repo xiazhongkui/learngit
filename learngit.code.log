@@ -16,4 +16,19 @@ git log --pretty=oneline
 git reset --hard HEAD^
 git reset --hard commitID
 git reflog
+git diff file
+git diff HEAD -- file
+git reset HEAD file
+git rm file
+git remote add origin git@github.com:michaelliao/learngit.git
+git pull origin master --allow-unrelated-histories
+git push -u origin master
+git checkout -b dev  == git branch dev;git checkout dev
+git branch
+
+git checkout master
+
+
+
+
 
