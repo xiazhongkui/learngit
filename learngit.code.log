@@ -27,7 +27,7 @@ git checkout -b dev  == git branch dev;git checkout dev
 git branch
 
 git checkout master
-
+git branch -d dev
 
 
 
